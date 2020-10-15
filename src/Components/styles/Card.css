@@ -1,0 +1,13 @@
+.CardPokemon{
+  width:265px;
+  background: white
+}
+
+.letter{
+  font-family: cursive;
+  color: black;
+  font-size: x-small;
+}
+.tdStyle1{
+  padding: 5px
+}
